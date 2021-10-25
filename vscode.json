@@ -1,0 +1,29 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "editor.minimap.enabled": false,
+    "explorer.confirmDelete": false,
+    "git.autofetch": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontLigatures": true,
+    "extensions.autoUpdate": false,
+    "git.confirmSync": false,
+    "workbench.editor.untitled.labelFormat": "name",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.formatOnSave": false,
+    "typescript.inlayHints.parameterNames.enabled": "all",
+    "javascript.inlayHints.parameterNames.enabled": "all",
+    "editor.guides.bracketPairs": true,
+    "eslint.workingDirectories": [{ "mode": "auto" }],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+        "source.fixAll.stylelint": true
+    },
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.editor.enablePreview": false,
+    "stylelint.enable": true,
+    "stylelint.autoFixOnSave": true,
+    "stylelint.useLocal": true,
+    "stylelint.validate": ["css", "scss", "vue"]
+}
